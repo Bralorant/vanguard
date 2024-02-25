@@ -5,21 +5,21 @@
 		"start": "node --watch-path=./src ."
 	},
 	"dependencies": {
-		"@discordjs/rest": "^2.0.0",
+		"@discordjs/rest": "^2.2.0",
 		"chalk-advanced": "^1.0.3",
-		"discord-api-types": "^0.37.60",
+		"discord-api-types": "^0.37.70",
 		"discord-rankup": "^1.1.2",
-		"discord.js": "^14.9.0",
-		"dotenv": "^16.0.3",
+		"discord.js": "^14.14.1",
+		"dotenv": "^16.4.5",
 		"fs": "^0.0.1-security",
-		"moment": "^2.29.4",
-		"mongoose": "^7.6.3"
+		"moment": "^2.30.1",
+		"mongoose": "^8.2.0"
 	},
 	"devDependencies": {
-		"eslint": "^8.52.0",
-		"eslint-config-prettier": "^9.0.0",
+		"eslint": "^8.57.0",
+		"eslint-config-prettier": "^9.1.0",
 		"eslint-config-semistandard": "^17.0.0",
-		"prettier": "^3.0.0"
+		"prettier": "^3.2.5"
 	},
 	"name": "bralorant-level",
 	"version": "1.0.0",
